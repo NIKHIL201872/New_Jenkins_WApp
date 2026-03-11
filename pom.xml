@@ -22,7 +22,7 @@
 </dependency>
   </dependencies>
   <build>
-    <finalName>Jenkin_Web_App_Pipeline</finalName>
+    <finalName>New_Jenkin_WApp</finalName>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
